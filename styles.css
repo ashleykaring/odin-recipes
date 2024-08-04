@@ -1,0 +1,15 @@
+body {
+    font-size: 32px;
+    font-family: monospace;
+    color: blue;
+    background-color: rgb(209, 237, 242);
+}
+
+h1 {
+    background-color: aliceblue;
+}
+
+ul {
+    font-size: 24px;
+    color: orange;
+}
